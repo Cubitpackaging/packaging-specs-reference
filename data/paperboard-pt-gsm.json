@@ -1,0 +1,48 @@
+{
+  "source": "https://www.cubitpackaging.com/folding-cartons",
+  "maintainer": "Cubit Packaging LLC (Fremont, CA)",
+  "folding_carton_boards": [
+    {
+      "caliper_pt": 14,
+      "approx_gsm": 280,
+      "typical_use": "Lightweight cosmetics, inserts, small retail cartons"
+    },
+    {
+      "caliper_pt": 16,
+      "approx_gsm": 310,
+      "typical_use": "Standard retail folding cartons (supplements, skincare, snacks)"
+    },
+    {
+      "caliper_pt": 18,
+      "approx_gsm": 350,
+      "typical_use": "Sturdier retail cartons, heavier glass droppers & bottles"
+    },
+    {
+      "caliper_pt": 20,
+      "approx_gsm": 400,
+      "typical_use": "Heavy retail display & multi-pack cartons"
+    },
+    {
+      "caliper_pt": 24,
+      "approx_gsm": 450,
+      "typical_use": "Premium heavy folding cartons & hanging display headers"
+    }
+  ],
+  "rigid_chipboard_grades": [
+    {
+      "thickness_mm": 1.5,
+      "approx_gsm": 1000,
+      "typical_use": "Compact rigid two-piece & drawer gift boxes"
+    },
+    {
+      "thickness_mm": 2.0,
+      "approx_gsm": 1200,
+      "typical_use": "Standard luxury magnetic closure & telescoping rigid boxes"
+    },
+    {
+      "thickness_mm": 2.5,
+      "approx_gsm": 1500,
+      "typical_use": "Large luxury kits, electronics & corporate gift sets"
+    }
+  ]
+}
