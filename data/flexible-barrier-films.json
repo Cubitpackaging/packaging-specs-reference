@@ -1,0 +1,36 @@
+{
+  "source": "https://www.cubitpackaging.com/mylar-bags",
+  "maintainer": "Cubit Packaging LLC (Fremont, CA)",
+  "structures": [
+    {
+      "name": "PET / VMPET / LLDPE",
+      "barrier_tier": "High (metallized)",
+      "light_barrier": "Opaque",
+      "typical_use": "Custom mylar bags, snacks, coffee, supplements, cannabis"
+    },
+    {
+      "name": "PET / AL / LLDPE",
+      "barrier_tier": "Ultra-high (aluminum foil)",
+      "light_barrier": "100% Opaque",
+      "typical_use": "Maximum oxygen/moisture shelf-life, powdered supplements, coffee"
+    },
+    {
+      "name": "Kraft / VMPET / LLDPE",
+      "barrier_tier": "High + natural exterior",
+      "light_barrier": "Opaque",
+      "typical_use": "Natural craft stand-up pouches, tea, pet treats, coffee"
+    },
+    {
+      "name": "PET / LLDPE (Clear)",
+      "barrier_tier": "Moderate",
+      "light_barrier": "Transparent / Window",
+      "typical_use": "Clear-window retail pouches where product visibility matters"
+    },
+    {
+      "name": "MDO-PE / EVOH-PE",
+      "barrier_tier": "Recyclable mono-material",
+      "light_barrier": "Translucent or printed",
+      "typical_use": "Store-drop-off recyclable flexible pouches"
+    }
+  ]
+}
