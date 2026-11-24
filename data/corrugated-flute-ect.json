@@ -1,0 +1,56 @@
+{
+  "source": "https://www.cubitpackaging.com/tools/ect-guide",
+  "maintainer": "Cubit Packaging LLC (Fremont, CA)",
+  "flutes": [
+    {
+      "code": "F",
+      "thickness_mm": 0.8,
+      "flutes_per_ft": "125-128",
+      "typical_ect": [
+        "26 ECT",
+        "32 ECT"
+      ],
+      "best_for": "Small retail & cosmetics boxes"
+    },
+    {
+      "code": "E",
+      "thickness_mm": 1.5,
+      "flutes_per_ft": "90-94",
+      "typical_ect": [
+        "32 ECT"
+      ],
+      "best_for": "DTC & subscription custom mailer boxes"
+    },
+    {
+      "code": "B",
+      "thickness_mm": 3.0,
+      "flutes_per_ft": "47-50",
+      "typical_ect": [
+        "32 ECT",
+        "44 ECT"
+      ],
+      "best_for": "Heavy mailers, canned/jarred goods, puncture resistance"
+    },
+    {
+      "code": "C",
+      "thickness_mm": 4.0,
+      "flutes_per_ft": "39-42",
+      "typical_ect": [
+        "32 ECT",
+        "44 ECT"
+      ],
+      "best_for": "Standard RSC corrugated shipping boxes"
+    },
+    {
+      "code": "BC",
+      "thickness_mm": 7.0,
+      "flutes_per_ft": "Double-wall B+C",
+      "typical_ect": [
+        "44 ECT",
+        "48 ECT",
+        "51 ECT"
+      ],
+      "best_for": "Heavy bulk master cartons & heavy/fragile transit"
+    }
+  ]
+}
